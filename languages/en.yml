@@ -5,6 +5,7 @@ common:
   tag: 'Tag'
   categories: 'Categories'
   tags: 'Tags'
+  resume: 'R&#xE9;sum&#xE9;'
 nav:
   next: 'Next'
   prev: 'Prev'
